@@ -47,7 +47,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 ## Two Pointers
 - [X] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
-- [ ] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
+- [X] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
 
 - [X] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
@@ -55,7 +55,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 
-- [ ] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+- [X] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 
 ## Fast and Slow Pointers
 
