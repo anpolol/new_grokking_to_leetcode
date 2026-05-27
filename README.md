@@ -277,7 +277,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Exclusive Execution Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)
 
-- [ ] [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
+- [X] [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 
 - [X] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 
