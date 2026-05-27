@@ -271,7 +271,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
 
-- [ ] [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+- [X] [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 
 - [ ] [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 
@@ -279,9 +279,9 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 
-- [ ] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+- [X] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [X] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 ## Graphs
 
