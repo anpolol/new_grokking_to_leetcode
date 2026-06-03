@@ -315,7 +315,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
 
-- [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
+- [X] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
 
 - [X] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
